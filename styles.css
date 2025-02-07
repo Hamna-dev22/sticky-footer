@@ -1,4 +1,4 @@
-/* Reset some default styles */
+
 body, html {
     margin: 0;
     padding: 0;
@@ -8,7 +8,7 @@ body, html {
     color: #333;
 }
 
-/* Main content area */
+
 .content {
     min-height: 100vh;
     padding: 40px 20px;
@@ -31,7 +31,7 @@ body, html {
     color: #555;
 }
 
-/* Sticky footer */
+
 .footer {
     background: rgba(30, 60, 114, 0.85);
     color: #fff;
@@ -83,7 +83,7 @@ body, html {
     transform: translateY(-3px);
 }
 
-/* Animation for footer */
+
 @keyframes slideUp {
     from {
         transform: translateY(100%);
